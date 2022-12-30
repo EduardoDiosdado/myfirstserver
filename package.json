@@ -4,6 +4,7 @@
   "description": "This is my first server",
   "main": "app.js",
   "scripts": {
+    "demon": "nodemon src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
